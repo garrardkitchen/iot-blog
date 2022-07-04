@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT</title>
+    <link>http://iot.garrardkitchen.com/</link>
+    <description>Recent content on IoT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 02 Jul 2022 14:38:19 +0100</lastBuildDate><atom:link href="http://iot.garrardkitchen.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://iot.garrardkitchen.com/posts/first-post/</link>
+      <pubDate>Sat, 02 Jul 2022 14:38:19 +0100</pubDate>
+      
+      <guid>http://iot.garrardkitchen.com/posts/first-post/</guid>
+      <description>First post#I have recently been awarded my Azure IoT Developer Specialty Certification and I plan explorer IoT more. My plan is to post content on my journey and any/all other IoT related knowledge I gain.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://iot.garrardkitchen.com/about/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://iot.garrardkitchen.com/about/</guid>
+      <description>Certifications#This is a list of my Azure certifications:#This is a list of my AWS certifications:#</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://iot.garrardkitchen.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://iot.garrardkitchen.com/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

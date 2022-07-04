@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+  <url>
+    <loc>http://iot.garrardkitchen.com/posts/first-post/</loc>
+    <lastmod>2022-07-02T14:38:19+01:00</lastmod>
+  </url><url>
+    <loc>http://iot.garrardkitchen.com/tags/iot/</loc>
+    <lastmod>2022-07-02T14:38:19+01:00</lastmod>
+  </url><url>
+    <loc>http://iot.garrardkitchen.com/</loc>
+    <lastmod>2022-07-02T14:38:19+01:00</lastmod>
+  </url><url>
+    <loc>http://iot.garrardkitchen.com/posts/</loc>
+    <lastmod>2022-07-02T14:38:19+01:00</lastmod>
+  </url><url>
+    <loc>http://iot.garrardkitchen.com/tags/</loc>
+    <lastmod>2022-07-02T14:38:19+01:00</lastmod>
+  </url><url>
+    <loc>http://iot.garrardkitchen.com/about/</loc>
+    <lastmod>2022-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://iot.garrardkitchen.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://iot.garrardkitchen.com/categories/</loc>
+  </url>
 </urlset>
