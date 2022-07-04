@@ -8,7 +8,7 @@ type: page
 
 # First post
 
-I have recently been awarded my Azure IoT Developer Specialty Certification.  Little did I know how all encompassing Azure's offering in this space is.  The MS Learning took me well outside of my confort zone and I found it incredible fascinating.  I found myself hacking python to prove my Raspberry PI sensors were working and then hacking .net libraries to consume their output. Any interfacing with Raspberry PIs would not be complete without flashing LEDs! 
+I have recently been awarded my Azure IoT Developer Specialty Certification.  Little did I know how all encompassing Azure's offering in this space is.  The MS Learning took me well outside of my comfort zone.  I was blown away by how incredibly fascinating IoT (and IoTEdge) development and architecture is.  I also found myself hacking python to prove my Raspberry PI sensors were working and then hacking .net libraries to consume their output. Any interfacing with Raspberry PIs would not be complete without flashing LEDs! 
 
 What I now plan on doing is to document my IoT journey here.
 
